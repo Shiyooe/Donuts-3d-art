@@ -49,7 +49,7 @@ int main() {
         
         A += 0.04;
         B += 0.02;
-        usleep(30000);
+        usleep(50000);
     }
     return 0;
 }
