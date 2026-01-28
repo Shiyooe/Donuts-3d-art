@@ -46,7 +46,6 @@ int main() {
                 float m = cos(B);
                 float n = sin(B);
                 float t = c * h * g - f * e;
-
                 int x = 40 + 30 * D * (l * h * m - t * n);
                 int y = 12 + 15 * D * (l * h * n + t * m);
                 int o = x + 80 * y;
